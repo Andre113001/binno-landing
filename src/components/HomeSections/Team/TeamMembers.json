@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Marcus Andre Geñorga",
+        "position": "Chief Executive Officer",
+        "img": "./TeamItems/image_7.png"
+    },
+    {
+        "id": 2,
+        "name": "Ela Mae Del Castillo",
+        "position": "Project Manager",
+        "img": "./TeamItems/image_10.png"
+    },
+    {
+        "id": 3,
+        "name": "Carl Albert Tutanes",
+        "position": "Chief Operations Officer",
+        "img": "./TeamItems/image_1.png"
+    },
+    {
+        "id": 4,
+        "name": "Ross Marco Cordova",
+        "position": "Chief Marketing Officer",
+        "img": "./TeamItems/image_8.png"
+    },
+    {
+        "id": 5,
+        "name": "Marriane Jane Natad",
+        "position": "Developer",
+        "img": "./TeamItems/image_11.png"
+    },
+    {
+        "id": 6,
+        "name": "Sean Trent Dollentas",
+        "position": "Developer",
+        "img": "./TeamItems/image_9.png"
+    }
+]
