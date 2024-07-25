@@ -9,8 +9,8 @@ const Navbar = () => {
                 <img src={logo} className='h-[3rem] mx-40' alt="BiNNO Logo" />
             </div>
             <div className='flex font-medium justify-center text-[17px] items-center gap-24 w-1/2'>
-                <a href="#Team">The Team</a>
                 <a href="#About">About Us</a>
+                <a href="#Team">The Team</a>
                 <a href="#Contract">Contact</a>
             </div>
         </div>

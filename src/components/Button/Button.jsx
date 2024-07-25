@@ -1,9 +1,13 @@
-import React from 'react'
+import React from 'react';
 
-const Button = ({buttonText}) => {
-  return (
-      <button className='bg-secondary font-bold text-white p-4 w-full rounded-xl'>{buttonText}</button>
-  )
-}
+const EmailButton = ({ buttonText, link }) => {
+    return (
+        <a 
+          href={link} 
+          className='bg-secondary font-bold text-white p-4 w-full rounded-xl inline-block text-center'>
+          {buttonText}
+        </a>
+    );
+};
 
-export default Button
+export default EmailButton;
