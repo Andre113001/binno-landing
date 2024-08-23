@@ -15,6 +15,7 @@ export default {
     fontSize: {
       sm: '15px',
       md: '20px',
+      'md-lg': '25px',
       lg: '36px',
       xl: '48px',
       '2xl': '96px'

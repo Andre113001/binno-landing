@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <Home />
       <div>
-        <span className='flex items-center justify-center mb-10 w-full'>Copyright © BiNNO 2024</span>
+        <span className='flex items-center justify-center mb-10 mt-20 w-full'>Copyright © BiNNO 2024</span>
       </div>
     </div>
   )

@@ -6,7 +6,7 @@ import Contact from '../../components/HomeSections/Contact/Contact';
 
 function Home() {
   return (
-    <div>
+    <div className='flex flex-col min-h-screen'>
       <Hero />
       <About />
       <Team />
